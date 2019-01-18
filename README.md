@@ -24,4 +24,9 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
-
+Imporovements with more time:
+* Add dropdown to select country (currently hardcoded with 'US)
+* Show the weather units with more details.
+* Dispaly multiple search citys weather forcast
+* Add city map
+* Add more tests (only few tests added)
